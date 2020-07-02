@@ -125,14 +125,28 @@ Void: Lo utilizamos para la declaración de funciones sin valor de retorno.
 
 
 Tinkercad
+
 ●	Crearnos una cuenta de usuario y acceder. Seleccionando la opción “Circuits” podremos empezar a crear nuestros circuitos clicando sobre “Create new Circuit”:
+
+![](img/001.PNG)
+![](img/002.PNG)
+![](img/010.PNG)
 
 ●	A Continuación se nos redirigirá a otra ventana la cual nos desplegará a nuestro lado derecho una serie de opciones “Basic” y “All”, según queramos componentes elementales o de uso más común como pulsadores, LEDs, resistencias fijas, potenciómetros, baterías, transistores, placas de prototipado etc. u opciones más avanzadas como circuitos integrados, osciloscopios, control remoto o tiras de LEDs.
 
-●	Una vez montado el circuito con una placa controladora Arduino, podremos escribir el código. Para ello, habrá que clicar sobre el icono “Code” y se optará por la opción de programación por bloques, texto o mixta. Ésta última muestra las dos opciones (bloques y texto) simultáneamente.
+![](img/011.PNG)
 
-●	Escribimos el programa para la placa controladora (en la imagen, un semáforo sencillo) y a continuación podemos simular el circuito eligiendo la opción “Start Simulation”
+●	Conectaremos los pines del Arduino al LSD de la siguiente manera, también utilizares dos resistencias para proteger al LSD y al diodo LED.
 
+![](img/Capture5.PNG)
+![](img/Capture.PNG)
+
+●	Una vez conectado el circuito, procederemos a codificarlo, en este caso se utilizo el lenguaje de texto
+![](img/Capture3.PNG)
+
+
+●	Para finalizar podemos simular el circuito eligiendo la opción “Start Simulation”
+![](img/004.PNG)
 
         
 
