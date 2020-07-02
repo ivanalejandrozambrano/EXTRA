@@ -7,16 +7,17 @@ Actualmente existen varias plataformas de tarjetas de desarrollo, y algunas de e
 ### 2. OBJETIVOS
 
 General:
+
 ●	Implementar circuitos con las tarjetas de desarrollo Arduino Uno y ESP 8266 por medio de plataformas digitales.
 Específicos:
+
 ●	Identificar los componentes electrónicos que componen las tarjetas de desarrollo Arduino Uno y ESP 8266.
+
 ●	Conocer las generalidades y funcionamiento las tarjetas de desarrollo Arduino Uno y ESP 8266.
+
 ●	Reconocer la escritura y sintaxis de las tarjetas de desarrollo Arduino Uno y ESP 8266.
-<<<<<<< HEAD
+
 ### 3.	ESTADO DEL ARTE
-
-
-Arduino
 
 Vidal-Silva, C., Lineros, M. I., Uribe, G. E., & Olmos, C. J. (2019). Electrónica para Todos con el Uso de Arduino: Experiencias Positivas en la Implementación de Soluciones Hardware-Software. Este trabajo presenta experiencias para con el desarrollo de proyectos Arduino, de estudiantes de Ingeniería Civil Informática de la Universidad Viña del Mar (ICI-UVM) en Chile, en un módulo (curso) de su proceso formativo. Las áreas de informática y electrónica usualmente consideran rumbos formativos diferentes sin presentar una clara hegemonía en el proceso de enseñanza, con un bajo desarrollo de competencias integradoras para la producción de soluciones que combinan hardware y software para el procesamiento de señales, lo que Arduino permite disminuir en alto grado. 
 
@@ -67,12 +68,15 @@ Esquemático del Arduino UNO
 
 
 ●	Computador
+
 ●	Plataforma Tinkercad
+
 ●	Internet
 
 
 
 ### 7.	MAPA DE VARIABLES
+
 7.1	Arduino UNO y LCD 16*2
  
 
@@ -82,10 +86,12 @@ Esquemático del Arduino UNO
 
 
 ### 9.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+
 ●	Se debe tener una cuenta en la plataforma de Tinkercad para poder utilizar sus servicios.
 
 ### 10.	CONCLUSIONES
 ●	Las plataformas digitales se convierten en una gran herramienta las cuales nos ayudan a poder diseñar nuestros circuitos, en el caso de no poder conseguir alguno de ellos. Y como complemento se vuelve muy útil a la hora de guardar nuestros proyectos que por otro lado tendríamos que desarmar nuestro circuito para diseñar uno nuevo.
+
 ●	La Plataforma TinkerCad resulta ser una buena herramienta a la hora de poder hacer circuitos los cuales podemos codificar con Arduino sin tener que salir de la misma.
 
 ### 11.	RECOMENDACIONES
@@ -100,9 +106,13 @@ Esquemático del Arduino UNO
 
 
 •	Troncoso, M., & Nicolás, D. (2018). Prototipo de seguimiento en tiempo real implementado en Arduino y microcontrolador ESP8266.
+
 ●	Sánchez, E. (2012). Diseño de un sistema de control domótico basado en la plataforma Arduino. Master's thesis. Escuela Técnica Superior de Ingeniería Informática. Universidad Politécnica de Valencia.
+
 ●	C. Vidal, C. Cabezas, J. Parra y L. López, (S.F.) “Experiencias prácticas con el uso del lenguaje de programación Scratch para desarrollar el pensamiento algorítmico de estudiantes en Chile " Formación Universitaria, vol. 8, págs. 23–32, 2015. [En línea]. Disponible: http://www.redalyc.org/articulo.oa?id=373544191001
+
 ●	 European-Schoolnet, (2015) Calculando nuestro futuro: programación informática y Codificación de prioridades, programas escolares e iniciativas en toda Europa. Bruselas, Bélgica.
+
 ●	Vidal-Silva, C., Lineros, M. I., Uribe, G. E., & Olmos, C. J. (2019). Electrónica para Todos con el Uso de Arduino: Experiencias Positivas en la Implementación de Soluciones Hardware-Software. Información tecnológica, 30(6), 377-386.
 
 
@@ -113,8 +123,11 @@ Esquemático del Arduino UNO
 
 Tinkercad
 ●	Crearnos una cuenta de usuario y acceder. Seleccionando la opción “Circuits” podremos empezar a crear nuestros circuitos clicando sobre “Create new Circuit”:
+
 ●	A Continuación se nos redirigirá a otra ventana la cual nos desplegará a nuestro lado derecho una serie de opciones “Basic” y “All”, según queramos componentes elementales o de uso más común como pulsadores, LEDs, resistencias fijas, potenciómetros, baterías, transistores, placas de prototipado etc. u opciones más avanzadas como circuitos integrados, osciloscopios, control remoto o tiras de LEDs.
+
 ●	Una vez montado el circuito con una placa controladora Arduino, podremos escribir el código. Para ello, habrá que clicar sobre el icono “Code” y se optará por la opción de programación por bloques, texto o mixta. Ésta última muestra las dos opciones (bloques y texto) simultáneamente.
+
 ●	Escribimos el programa para la placa controladora (en la imagen, un semáforo sencillo) y a continuación podemos simular el circuito eligiendo la opción “Start Simulation”
 
 
