@@ -139,7 +139,8 @@ Tinkercad
 ●	Conectaremos los pines del Arduino al LSD de la siguiente manera, también utilizares dos resistencias para proteger al LSD y al diodo LED.
 
 ![](img/Capture5.PNG)
-![](img/Capture.PNG)
+![](img/555.PNG)
+![](img/444.PNG)
 
 ●	Una vez conectado el circuito, procederemos a codificarlo, en este caso se utilizo el lenguaje de texto
 ![](img/Capture3.PNG)
