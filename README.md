@@ -1,11 +1,10 @@
-<<<<<<< HEAD
+
 # Informe 
 ## Simulador en Thinkercad el Arduino y LCD 16*2
 
 ### 1.	PLANTEAMIENTO DEL PROBLEMA
 Actualmente existen varias plataformas de tarjetas de desarrollo, y algunas de ellas son de hardware y software libre. No obstante, existen otras plataformas las cuales al mismo tiempo de ser de forma libre nos dan como servicio adicional el hecho de ser gratuitas. En este documento se trabajará con Arduino Uno y ESP8266. 
 ### 2. OBJETIVOS
-=======
 
 General:
 ●	Implementar circuitos con las tarjetas de desarrollo Arduino Uno y ESP 8266 por medio de plataformas digitales.
@@ -15,7 +14,7 @@ Específicos:
 ●	Reconocer la escritura y sintaxis de las tarjetas de desarrollo Arduino Uno y ESP 8266.
 <<<<<<< HEAD
 ### 3.	ESTADO DEL ARTE
-=======
+
 
 Arduino
 
@@ -53,9 +52,9 @@ La pantalla LCD tiene 16 pines de conexión, numerados del 1 al 16 de izquierda 
 
 
 
-<<<<<<< HEAD
+
 ### 5.	DIAGRAMAS
-=======
+
 
 
 
@@ -63,16 +62,16 @@ La pantalla LCD tiene 16 pines de conexión, numerados del 1 al 16 de izquierda 
 
 Esquemático del Arduino UNO
 
-<<<<<<< HEAD
+
 ### 6.	LISTA DE COMPONENTES
-=======
+
 
 ●	Computador
 ●	Plataforma Tinkercad
 ●	Internet
 
 
-<<<<<<< HEAD
+
 ### 7.	MAPA DE VARIABLES
 7.1	Arduino UNO y LCD 16*2
  
@@ -82,7 +81,6 @@ Esquemático del Arduino UNO
 
 
 
-<<<<<<< HEAD
 ### 9.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 ●	Se debe tener una cuenta en la plataforma de Tinkercad para poder utilizar sus servicios.
 
@@ -91,16 +89,15 @@ Esquemático del Arduino UNO
 ●	La Plataforma TinkerCad resulta ser una buena herramienta a la hora de poder hacer circuitos los cuales podemos codificar con Arduino sin tener que salir de la misma.
 
 ### 11.	RECOMENDACIONES
-=======
 
 ●	Se recomienda tener por adelantado conocimientos sobre la programación en Arduino, ya que en varias ocasiones se necesita saber principalmente la sintaxis de las variables las cuales están predeterminadas para cada declaración. 
 .
 
 
 
-<<<<<<< HEAD
+
 ### 12.	BIBLIOGRAFÍA
-=======
+
 
 •	Troncoso, M., & Nicolás, D. (2018). Prototipo de seguimiento en tiempo real implementado en Arduino y microcontrolador ESP8266.
 ●	Sánchez, E. (2012). Diseño de un sistema de control domótico basado en la plataforma Arduino. Master's thesis. Escuela Técnica Superior de Ingeniería Informática. Universidad Politécnica de Valencia.
@@ -108,10 +105,10 @@ Esquemático del Arduino UNO
 ●	 European-Schoolnet, (2015) Calculando nuestro futuro: programación informática y Codificación de prioridades, programas escolares e iniciativas en toda Europa. Bruselas, Bélgica.
 ●	Vidal-Silva, C., Lineros, M. I., Uribe, G. E., & Olmos, C. J. (2019). Electrónica para Todos con el Uso de Arduino: Experiencias Positivas en la Implementación de Soluciones Hardware-Software. Información tecnológica, 30(6), 377-386.
 
-<<<<<<< HEAD
+
 ### 13.	ANEXOS
 ### 14. MANUAL DE USUARIO
-=======
+
 
 
 Tinkercad
@@ -122,10 +119,8 @@ Tinkercad
 
 
         
-<<<<<<< HEAD
-### 15. HOJAS TÉCNICAS
-=======
 
+### 15. HOJAS TÉCNICAS
 
 
 
