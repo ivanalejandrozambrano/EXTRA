@@ -31,6 +31,7 @@ Arduino UNO
 ARDUINO UNO es un microcontrolador el cual está basado en ATMega 328P. Tiene 14 entradas/salidas digitales, de las cuales 6 se pueden utilizar como salidas PWM (Modulación por ancho de pulsos) y otras 6 son entradas analógicas.Entre una de sus variadas características se destaca una biblioteca la cual sirve para poder controlar servomotores desde 0 y 180 ◦ . Los servos de rotación continua permiten varias velocidades de rotación de los ejes (Sánchez, 2012).
 Conectores de la tarjeta de Arduino UNO.
 
+
 1.	Terminal de referencia analógica (naranja)
 2.	Tierra digital (verde claro)
 3.	Terminales digitales 2-13 (verde)
