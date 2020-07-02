@@ -79,11 +79,12 @@ La pantalla LCD tiene 16 pines de conexión, numerados del 1 al 16 de izquierda 
 
 ### 7.	MAPA DE VARIABLES
 
-7.1	Arduino UNO y LCD 16*2
+Void: Lo utilizamos para la declaración de funciones sin valor de retorno.
  
 
 ### 8.- EXPLICACIÓN DEL CÓDIGO FUENTE
 
+![](img/Capture3.PNG)
 
 
 
