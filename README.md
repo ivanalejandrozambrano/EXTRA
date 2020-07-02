@@ -139,6 +139,6 @@ Tinkercad
 ### 15. HOJAS TÉCNICAS
 
 ![](img/fg11.jpg)
-
+![](img/16x2-Character-LCD-Display-Pinout.jpg)
 
 
