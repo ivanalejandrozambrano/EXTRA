@@ -84,6 +84,15 @@ Void: Lo utilizamos para la declaración de funciones sin valor de retorno.
 
 ### 8.- EXPLICACIÓN DEL CÓDIGO FUENTE
 
+1. Comenzaremos a llamar a la libreria <LiquidCrystal.h>.
+2. Definimos los pines del Arduino que estaran conectados a LCD.
+3. Definimos el modelos el LCD, en este caso se puso: lcd.begin(16, 2); 
+4. Declaramos el pin 13 del Arduino como salida para poder conectarlo al LED.
+5. Al pin 13 lo ponesmos en modo alto(HIGH).
+6. Declaramos que en la fila uno valos comenzar a escribir (lcd.setCursor(0,0); )
+7. Para que el LCD nos muestre lo que nosotros queramosescribimos el comando (  lcd.print(" ");), dentro de las comillas escribiremos el texto que queramos.
+
+
 ![](img/Capture3.PNG)
 
 
