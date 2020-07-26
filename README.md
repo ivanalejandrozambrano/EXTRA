@@ -106,7 +106,7 @@ La pantalla LCD tiene 16 pines de conexión, numerados del 1 al 16 de izquierda 
 
 ### 5.	DIAGRAMAS
 
-![](img/Capture2.PNG)
+
 
 
 
@@ -121,7 +121,6 @@ La pantalla LCD tiene 16 pines de conexión, numerados del 1 al 16 de izquierda 
 
 ●	Internet
 
-![](img/Capture4.PNG)
 
 
 
