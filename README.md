@@ -66,10 +66,7 @@ Lugar: Instituto de Aplicaciones y Gestión Informática de Bharati Vidyapeeth (
 
 
 ### 4.	MARCO TEÓRICO
-Gracias a las nuevas plataformas que se han creado, los desarrolladores han podido manejar el desarrollo y diseño de distintos proyectos con una mayor rapidez y eficiencia en lo que son los diferentes procesos que estos conllevan. Actualmente la adquisición de dichas plataformas sea vuelto mucho más fácil y barato, al punto de llegar a utilizar algunas plataformas de manera gratuita.
-También en otro apartado de lo que se refiere hardware, los controladores como lo son los Arduinos Uno son los más utilizados por sus cualidades al momento de programarlos ya que su programación es estándar y eso ayuda a muchos desarrolladores al momento de generar interfaces para cualquier dispositivo.
-Tinkercar es una plataforma online brindada por Autodesk, una de sus principales características es el hecho de poder utilizarla de forma gratuita, antes de ello es esencial la creación de una cuenta de dicha plataforma. Existen varios servicios que nos provee la plataforma por el que se la conoce en todo el mundo principalmente es ser una herramienta para el diseño de piezas en 3D, pero en este documento nos centraremos en otro servicio que igualmente ofrece la plataforma es cuál es la posibilidad de simular circuitos electrónicos como también el hecho de poder programar los mismos, especialmente en Arduino (Vidal-Silva, C., Lineros, M. I., Uribe, G. E., & Olmos, C. J. ,2019).
-Tinkercad unifica un lenguaje de programación estructurado y componentes electrónicos compatibles con Arduino para poder generar un ecosistema el cual sea ideal para la programación y creación de soluciones tecnológicas.
+
 
 #### Arduino UNO
 
