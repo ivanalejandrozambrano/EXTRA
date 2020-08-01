@@ -261,6 +261,15 @@ La pantalla LCD tiene 16 pines de conexión, numerados del 1 al 16 de izquierda 
 
 ### 9.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
+VISUINO
+
+Para poder visualeizar el texto del codigo necesitaremso descargar adicionalmente la aplicación ARDUINO IDE, el cual se vinculara automaticamente a la aplicacion visuino.
+
+
+
+### 10. Aportaciones
+
+
 
 
 ### 11.	RECOMENDACIONES
