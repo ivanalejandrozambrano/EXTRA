@@ -66,10 +66,7 @@ Lugar: Instituto de Aplicaciones y Gestión Informática de Bharati Vidyapeeth (
 
 
 ### 4.	MARCO TEÓRICO
-Gracias a las nuevas plataformas que se han creado, los desarrolladores han podido manejar el desarrollo y diseño de distintos proyectos con una mayor rapidez y eficiencia en lo que son los diferentes procesos que estos conllevan. Actualmente la adquisición de dichas plataformas sea vuelto mucho más fácil y barato, al punto de llegar a utilizar algunas plataformas de manera gratuita.
-También en otro apartado de lo que se refiere hardware, los controladores como lo son los Arduinos Uno son los más utilizados por sus cualidades al momento de programarlos ya que su programación es estándar y eso ayuda a muchos desarrolladores al momento de generar interfaces para cualquier dispositivo.
-Tinkercar es una plataforma online brindada por Autodesk, una de sus principales características es el hecho de poder utilizarla de forma gratuita, antes de ello es esencial la creación de una cuenta de dicha plataforma. Existen varios servicios que nos provee la plataforma por el que se la conoce en todo el mundo principalmente es ser una herramienta para el diseño de piezas en 3D, pero en este documento nos centraremos en otro servicio que igualmente ofrece la plataforma es cuál es la posibilidad de simular circuitos electrónicos como también el hecho de poder programar los mismos, especialmente en Arduino (Vidal-Silva, C., Lineros, M. I., Uribe, G. E., & Olmos, C. J. ,2019).
-Tinkercad unifica un lenguaje de programación estructurado y componentes electrónicos compatibles con Arduino para poder generar un ecosistema el cual sea ideal para la programación y creación de soluciones tecnológicas.
+
 
 #### Arduino UNO
 
@@ -106,7 +103,7 @@ La pantalla LCD tiene 16 pines de conexión, numerados del 1 al 16 de izquierda 
 
 ### 5.	DIAGRAMAS
 
-![](img/Capture2.PNG)
+
 
 
 
@@ -121,7 +118,6 @@ La pantalla LCD tiene 16 pines de conexión, numerados del 1 al 16 de izquierda 
 
 ●	Internet
 
-![](img/Capture4.PNG)
 
 
 
@@ -132,32 +128,16 @@ Void: Lo utilizamos para la declaración de funciones sin valor de retorno.
 
 ### 8.- EXPLICACIÓN DEL CÓDIGO FUENTE
 
-1. Comenzaremos a llamar a la libreria <LiquidCrystal.h>.
-2. Definimos los pines del Arduino que estaran conectados a LCD.
-3. Definimos el modelos el LCD, en este caso se puso: lcd.begin(16, 2); 
-4. Declaramos el pin 13 del Arduino como salida para poder conectarlo al LED.
-5. Al pin 13 lo ponesmos en modo alto(HIGH).
-6. Declaramos que en la fila uno valos comenzar a escribir (lcd.setCursor(0,0); )
-7. Para que el LCD nos muestre lo que nosotros queramosescribimos el comando (  lcd.print(" ");), dentro de las comillas escribiremos el texto que queramos.
-
-
-![](img/Capture3.PNG)
 
 
 
 ### 9.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
-●	Se debe tener una cuenta en la plataforma de Tinkercad para poder utilizar sus servicios.
 
-### 10.	CONCLUSIONES
-●	Las plataformas digitales se convierten en una gran herramienta las cuales nos ayudan a poder diseñar nuestros circuitos, en el caso de no poder conseguir alguno de ellos. Y como complemento se vuelve muy útil a la hora de guardar nuestros proyectos que por otro lado tendríamos que desarmar nuestro circuito para diseñar uno nuevo.
-
-●	La Plataforma TinkerCad resulta ser una buena herramienta a la hora de poder hacer circuitos los cuales podemos codificar con Arduino sin tener que salir de la misma.
 
 ### 11.	RECOMENDACIONES
 
-●	Se recomienda tener por adelantado conocimientos sobre la programación en Arduino, ya que en varias ocasiones se necesita saber principalmente la sintaxis de las variables las cuales están predeterminadas para cada declaración. 
-.
+
 
 
 
@@ -165,7 +145,6 @@ Void: Lo utilizamos para la declaración de funciones sin valor de retorno.
 ### 12.	BIBLIOGRAFÍA
 
 
-•	Troncoso, M., & Nicolás, D. (2018). Prototipo de seguimiento en tiempo real implementado en Arduino y microcontrolador ESP8266.
 
 ●	Sánchez, E. (2012). Diseño de un sistema de control domótico basado en la plataforma Arduino. Master's thesis. Escuela Técnica Superior de Ingeniería Informática. Universidad Politécnica de Valencia.
 
@@ -177,36 +156,12 @@ Void: Lo utilizamos para la declaración de funciones sin valor de retorno.
 
 
 ### 13.	ANEXOS
+
 ### 14. MANUAL DE USUARIO
 
 
 
-Tinkercad
-
-●	Crearnos una cuenta de usuario y acceder. Seleccionando la opción “Circuits” podremos empezar a crear nuestros circuitos clicando sobre “Create new Circuit”:
-
-![](img/001.PNG)
-![](img/002.PNG)
-![](img/010.PNG)
-
-●	A Continuación se nos redirigirá a otra ventana la cual nos desplegará a nuestro lado derecho una serie de opciones “Basic” y “All”, según queramos componentes elementales o de uso más común como pulsadores, LEDs, resistencias fijas, potenciómetros, baterías, transistores, placas de prototipado etc. u opciones más avanzadas como circuitos integrados, osciloscopios, control remoto o tiras de LEDs.
-
-![](img/011.PNG)
-
-●	Conectaremos los pines del Arduino al LSD de la siguiente manera, también utilizares dos resistencias para proteger al LSD y al diodo LED.
-
-![](img/Capture5.PNG)
-![](img/555.PNG)
-![](img/444.PNG)
-
-●	Una vez conectado el circuito, procederemos a codificarlo, en este caso se utilizo el lenguaje de texto
-![](img/Capture3.PNG)
-
-
-●	Para finalizar podemos simular el circuito eligiendo la opción “Start Simulation”
-![](img/004.PNG)
-
-        
+       
 
 ### 15. HOJAS TÉCNICAS
 ![](img/arduino-Pinout.jpg)
