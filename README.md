@@ -25,44 +25,24 @@ Especificos:
 
 ### 3.	ESTADO DEL ARTE
 
-### Tema: ENTRENADOR PERIFÉRICO DE INTERFAZ BASADO EN EL MICROCONTROLADOR ARDUINO UNO.
+### Tema: 
 
-Investigadores: Steven Jendri Sokop y Dringhuzen J. Mamahit.
+Investigadores: 
 
-Año: 2016
+Año: 
 
-El desarrollo de la tecnología electrónica hoy en día se está desarrollando muy rápido, y detrás de todo eso hay recursos humanos como desarrolladores de avances en tecnología electrónica.
 
-El entrenador o los medios de enseñanza son herramientas de aprendizaje que se pueden observar a través de los cinco sentidos y como ayudantes en el proceso de aprendizaje para ser más efectivos.
 
-Los accesorios pueden estar en forma de periféricos de interfaz porque en un sistema periférico de interfaz hay herramientas en forma de hardware con software como medio interactivo.
+Lugar: 
+### Tema: 
 
-El microcontrolador es una tecnología que se está desarrollando tan rápidamente con varios tipos y funciones, como el Arduino Uno, que se puede utilizar como microcontrolador para diversas funciones en el campo de la tecnología electrónica.
+Investigadores: 
 
-Lugar: Departamento de Ingeniería Eléctrica, Sam Ratulangi University Manado, Indonesia.
+Año:
 
-### Tema: Automatización del sistema de facturación de equipaje del aeropuerto.
 
-Investigadores: Himank Aggarwal, Mayank Agnihotri, Varun Kumar Kakar  y Kartikey Dubey.
 
-Año:2018
-
-El avión, actualmente el modo de transporte más rápido, es la primera opción para aquellos que desean hacer un largo viaje. Incluso
-después del despegue, puede llegar rápidamente a su destino, pero el proceso de prearranque suele llevar mucho tiempo. Como regla general, tenemos problemas
-con la medición del peso del equipaje en el check-in en el aeropuerto como el
-Las aerolíneas han establecido un límite de peso fijo para nuestro equipaje. A pesar de
-La modernidad de la terminal y la arquitectura impresionante, un rápido,
-El sistema de manejo de equipaje eficiente y fluido todavía juega un papel
-Papel importante en la prestación de un servicio excepcional. Y si tenemos un
-sistema automático de facturación de equipaje, todo lo que tiene que hacer es saquear
-su boleto y su equipaje serán registrados a su nombre
-y el cargo extra por su equipaje será automáticamente
-publicado, si lo hay. En este artículo, presentamos un modelo de sistema
-diseñado para automatizar el sistema de registro de equipaje de vuelo mediante
-tratando de crear una solución fácil de usar, rentable y eficiente
-sistema de autocomprobación.
-
-Lugar: Instituto de Aplicaciones y Gestión Informática de Bharati Vidyapeeth (BVICAM), Nueva Delhi (INDIA).
+Lugar: 
 
 
 ### 4.	MARCO TEÓRICO
