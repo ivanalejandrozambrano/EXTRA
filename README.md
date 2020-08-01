@@ -25,24 +25,19 @@ Especificos:
 
 ### 3.	ESTADO DEL ARTE
 
-### Tema: 
+### Tema: Diseño e implementación de un entorno de desarrollo integrado para programación visual de aplicaciones en la generación del Internet de las Cosas
 
-Investigadores: 
+Investigadores: Quiles Alemañ, José.
 
-Año: 
+Año: 	2020
 
+La presente tesis de maestría está directamente alineada con el proyecto bIoTope, financiado por la Unión Europea, que tiene como objetivo construir un ecosistema de innovación abierta de Internet de las cosas (IoT) que permita a las empresas crear fácilmente sistemas de IoT con una inversión mínima. Para contribuir a la consecución de este ambicioso objetivo, en esta tesis, se lleva a cabo una implementación de un entorno de desarrollo integrado (IDE) en una aplicación ampliamente utilizada para conectar objetos inteligentes y obtener información de ellos, conocida como Node-RED.
 
-
-Lugar: 
-### Tema: 
-
-Investigadores: 
-
-Año:
+Para hacer esto posible, se realiza un estudio en profundidad de los diferentes conceptos y tecnologías necesarios en el conjunto de etapas de desarrollo: Definición, Creación de un entorno de desarrollo de Python basado en Skulpt e Implementación con Node-RED. Una vez que se completa la implementación, el nuevo entorno se utiliza y se prueba en diferentes escenarios, como la mitigación de la ola de calor en el Gran Lyon o un posible sistema de estacionamiento inteligente para la Copa Mundial de la FIFA de Qatar 2022, por lo que es posible analizar el resultados y sacar conclusiones positivas, porque a pesar de la existencia de limitaciones, se logra un nuevo entorno que facilita a los usuarios la creación de sistemas IoT, así como el proyecto bIoTope sienta sus bases.
 
 
+Lugar: 	Universitat Politècnica de València.España.
 
-Lugar: 
 
 
 ### 4.	MARCO TEÓRICO
@@ -279,9 +274,7 @@ Para poder visualeizar el texto del codigo necesitaremso descargar adicionalment
 
 ### 11.	RECOMENDACIONES
 
-
-
-
+Se recomienda tener tener espacio suficiente para poder instalar el programa VISUINO, también en interactuar regularmente con el programa para poder conocer los diferentes componentes que nos brinda.
 
 
 ### 12.	BIBLIOGRAFÍA
