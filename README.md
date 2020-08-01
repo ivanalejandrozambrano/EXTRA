@@ -5,12 +5,13 @@
 
 ### 1.	PLANTEAMIENTO DEL PROBLEMA
 
-Actualmente existen varias plataformas de tarjetas de desarrollo, y algunas de ellas son de hardware y software libre. No obstante, existen otras plataformas las cuales al mismo tiempo de ser de forma libre nos dan como servicio adicional el hecho de ser gratuitas. En este documento se trabajará con Arduino Uno y LCD  16x2 por medio de la plataforma de Visuino.
+Actualmente existen varias plataformas de tarjetas de desarrollo, y algunas de ellas son de hardware y software libre. No obstante, existen otras plataformas las cuales al mismo tiempo de ser de forma libre nos dan como servicio adicional el hecho de ser gratuitas, como lo es el programa VISUINO. En este documento se trabajará con Arduino Uno y LCD  16x2 por medio del programa VISUINO. 
+
 ### 2. OBJETIVOS
 
 General:
 
-●	Implementar circuitos con las tarjetas de desarrollo Arduino Uno y LCD  16x2 por medio de plataformas digitales.
+●	Implementar un circuito con las tarjetas de desarrollo Arduino Uno y LCD  16x2 por medio del programa VISUINO. 
 Específicos:
 
 
@@ -20,7 +21,7 @@ Especificos:
 
 ●	Conocer las generalidades y funcionamiento las tarjetas de desarrollo Arduino Uno y LCD  16x2
 
-●	Reconocer la escritura y sintaxis de las tarjetas de desarrollo Arduino Uno y LCD  16x2
+
 
 
 ### 3.	ESTADO DEL ARTE
@@ -112,7 +113,11 @@ La pantalla LCD tiene 16 pines de conexión, numerados del 1 al 16 de izquierda 
 
 ### 7.	MAPA DE VARIABLES
 
+ComponentVariables
 
+public:
+  uint32_t Value1 : 5;
+  uint32_t Value2 : 2;
  
 
 ### 8.- EXPLICACIÓN DEL CÓDIGO FUENTE
