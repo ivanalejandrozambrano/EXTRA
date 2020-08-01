@@ -272,6 +272,10 @@ Para poder visualeizar el texto del codigo necesitaremso descargar adicionalment
 
 
 
+![](img/tinker.PNG)
+
+
+
 ### 11.	RECOMENDACIONES
 
 
@@ -292,9 +296,9 @@ Para poder visualeizar el texto del codigo necesitaremso descargar adicionalment
 ●	Vidal-Silva, C., Lineros, M. I., Uribe, G. E., & Olmos, C. J. (2019). Electrónica para Todos con el Uso de Arduino: Experiencias Positivas en la Implementación de Soluciones Hardware-Software. Información tecnológica, 30(6), 377-386.
 
 
-### 13.	ANEXOS
 
-### 14. MANUAL DE USUARIO
+
+### 13. MANUAL DE USUARIO
 
 
 
