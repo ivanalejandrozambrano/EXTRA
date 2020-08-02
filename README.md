@@ -1,7 +1,6 @@
-
 # Informe 
 
-## Tutorial para programación arduino  para controlar un LCD  16x2 en Visuino
+## Tutorial para programación Arduino para controlar un LCD  16x2 en Visuino
 
 ### 1.	PLANTEAMIENTO DEL PROBLEMA
 
@@ -15,7 +14,7 @@ General:
 Específicos:
 
 
-Especificos:
+Específicos:
 
 ●	Identificar los componentes electrónicos que componen las tarjetas de desarrollo Arduino Uno y LCD  16x2.
 
@@ -37,7 +36,7 @@ La presente tesis de maestría está directamente alineada con el proyecto bIoTo
 Para hacer esto posible, se realiza un estudio en profundidad de los diferentes conceptos y tecnologías necesarios en el conjunto de etapas de desarrollo: Definición, Creación de un entorno de desarrollo de Python basado en Skulpt e Implementación con Node-RED. Una vez que se completa la implementación, el nuevo entorno se utiliza y se prueba en diferentes escenarios, como la mitigación de la ola de calor en el Gran Lyon o un posible sistema de estacionamiento inteligente para la Copa Mundial de la FIFA de Qatar 2022, por lo que es posible analizar el resultados y sacar conclusiones positivas, porque a pesar de la existencia de limitaciones, se logra un nuevo entorno que facilita a los usuarios la creación de sistemas IoT, así como el proyecto bIoTope sienta sus bases.
 
 
-Lugar: 	Universitat Politècnica de València.España.
+Lugar: 	Universidad Politécnica de València.España.
 
 
 
@@ -46,7 +45,7 @@ Lugar: 	Universitat Politècnica de València.España.
 
 #### Arduino UNO
 
-ARDUINO UNO es un microcontrolador el cual está basado en ATMega 328P. Tiene 14 entradas/salidas digitales, de las cuales 6 se pueden utilizar como salidas PWM (Modulación por ancho de pulsos) y otras 6 son entradas analógicas.Entre una de sus variadas características se destaca una biblioteca la cual sirve para poder controlar servomotores desde 0 y 180 ◦ . Los servos de rotación continua permiten varias velocidades de rotación de los ejes (Sánchez, 2012).
+ARDUINO UNO es un microcontrolador el cual está basado en ATMega 328P. Tiene 14 entradas/salidas digitales, de las cuales 6 se pueden utilizar como salidas PWM (Modulación por ancho de pulsos) y otras 6 son entradas analógicas. Entre una de sus variadas características se destaca una biblioteca la cual sirve para poder controlar servomotores desde 0 y 180 ◦. Los servos de rotación continua permiten varias velocidades de rotación de los ejes (Sánchez, 2012).
 Conectores de la tarjeta de Arduino UNO.
 
 ![](img/fg1.png)
@@ -68,7 +67,7 @@ El lenguaje gráfico es aquel tipo de comunicación que usa gráficos, imágenes
 
 El dibujo, específicamente, las pinturas rupestres del Paleolítico Superior, destaca como uno los primeros intentos del hombre para trascender por medio de este tipo de lenguaje. 
 
-Tras éstas manifestaciones prehistóricas y en la medida que fue evolucionando, el hombre buscó formas más avanzadas para comunicarse. En esta búsqueda, pudo perfeccionar tanto el idioma hablado como el escrito. Sin embargo, siempre recurrió al lenguaje gráfico para expresar las ideas más complejas.
+Tras estas manifestaciones prehistóricas y en la medida que fue evolucionando, el hombre buscó formas más avanzadas para comunicarse. En esta búsqueda, pudo perfeccionar tanto el idioma hablado como el escrito. Sin embargo, siempre recurrió al lenguaje gráfico para expresar las ideas más complejas.
 
 Y finalmente, con el avance de la computación y la cibernética, este tipo de lenguaje se ha transformado en la interfase para aplicaciones de videojuegos y otras especialidades informáticas.
 
@@ -76,7 +75,7 @@ Y finalmente, con el avance de la computación y la cibernética, este tipo de l
 
 Visuino es un ambiente de programación basado en la tecnología Open Wire, en donde todo es conectado por una serie de diagramas y pines, así consigues tener un diseño de tu circuito electrónico con su correspondiente código para grabarlo en Arduino.
 
-En otras palabras com visuino podemos hacer  un circuito electrónico con los componentes disponibles como lo son los displays, leds, botones, etc. eEntonces Visuino te crea el código para que el circuito te funcione, con tu placa de Arduino.
+En otras palabras, como visuino podemos hacer un circuito electrónico con los componentes disponibles como lo son los displays, leds, botones, etc. Entonces Visuino te crea el código para que el circuito te funcione, con tu placa de Arduino.
 
  ![](img/0000.jpg)
 
@@ -264,7 +263,7 @@ public:
 
 VISUINO
 
-Para poder visualeizar el texto del codigo necesitaremso descargar adicionalmente la aplicación ARDUINO IDE, el cual se vinculara automaticamente a la aplicacion visuino.
+Para poder visualizar el texto del código necesitaremos descargar adicionalmente la aplicación ARDUINO IDE, el cual se vinculara automáticamente a la aplicación Visuino.
 
 
 
@@ -279,7 +278,7 @@ Para poder visualeizar el texto del codigo necesitaremso descargar adicionalment
 
 ### 11.	RECOMENDACIONES
 
-Se recomienda tener tener espacio suficiente para poder instalar el programa VISUINO, también en interactuar regularmente con el programa para poder conocer los diferentes componentes que nos brinda.
+Se recomienda tener espacio suficiente para poder instalar el programa VISUINO, también en interactuar regularmente con el programa para poder conocer los diferentes componentes que nos brinda.
 
 
 ### 12.	BIBLIOGRAFÍA
@@ -299,16 +298,36 @@ Se recomienda tener tener espacio suficiente para poder instalar el programa VIS
 
 ### 13. MANUAL DE USUARIO
 
+##### 1.- Como primer paso nos dirigiremos la página principal de Visuino
+(https://www.visuino.com/)
 
 ![](img/t1.PNG)
 
+##### 2- A continuación, aremos clic en la opción "DOWNLOANDS".
+
 ![](img/t2.PNG)
+
+##### 3.- Luego encontraremos la siguiente opción:
 
 ![](img/t3.PNG)
 
+#####  Tendremos que hacerle clic para que nos descargue un instalador, el mismo que debemos instalar en nuestra computadora.
+
+##### 4.- La primera vez que abramos la aplicación nos aparecerá el diagrama del Arduino Uno, a nuestra derecha aparecerá todos los componentes con los cuales podemos interactuar con la placa Arduino Uno.
+
 ![](img/t4.PNG)
 
+##### 5.- Para poder elegir el componente tendremos arrástralo con nuestro mouse a la ventana donde se encuentra nuestro Arduino Uno, luego para conectarlo lo haremos por medio de los cuadritos en blanco los cuales son los pines de nuestros componentes.
+
+![](img/222.PNG)
+
+##### 6.- Para poder ver el código de nuestro proyecto Adicionalmente tendremos que descargarnos la aplicación Arduino IDE el cual lo encontramos en la página web de Arduino o en la tienda de Windows.  
+
+##### 7.- Una vez instalado haremos clic en el icono de Arduino de color celeste el cual se encuentra la parte superior de la pantalla.
+
 ![](img/t77.PNG)
+
+##### 8.- Nos enviara a la aplicación Arduino IDE y podremos ver y editar el código que nos habrá generado el programa VISUINO.
 
 ![](img/t88.PNG)
 
