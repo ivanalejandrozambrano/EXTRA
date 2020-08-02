@@ -25,6 +25,37 @@ Específicos:
 
 ### 3.	ESTADO DEL ARTE
 
+### Tema: DISEÑO E IMPLEMENTACION DE UN MODULO DE ENTRENAMIENTO DE AUTOMATIZACION Y CONTROL UTILIZANDO PLC CONTROLLINO, PROGRAMADO EN LENGUAJE C, PARA ACTIVIDADES PRACTICAS EN  LOS LABORATORIOS DE ELECTRONICA.
+
+
+Investigadores: 
+
+De Castro Rivera, Arturo S.
+Canchila Aguirre, Felipe A.
+Anaya Pineda, Anuar A.
+
+Año: 2017
+
+El objetivo de este proyecto, es el desarrollo e implementación de un nuevo módulo de
+entrenamiento de automatización y control. Utilizando el controlador lógico programable
+(Controllino) programado en lenguaje c, para prácticas en los laboratorios de electrónica de
+la Universidad Cooperativa de Colombia sede Santa Marta. Esto va encaminado a brindar
+el refuerzo y mejoramiento de las actividades prácticas para la asignatura de
+Automatización industrial y sistemas de Control; debido al desinterés actual que tienen los
+estudiantes del programa de ingeniería electrónica por no contar con herramientas de
+simulación más novedosas, que un futuro pueden encaminar a deserciones de los
+estudiantes en el programa.
+
+El alcance del presente proyecto, es lograr realizar una serie de pruebas sobre el
+funcionamiento de los dispositivos a implementar, del mismo modo, se analizarán las
+ventajas y desventajas que trae esta tecnología a comparación de la ya existente en el
+mercado. Y así tener la información necesaria, para iniciar con el desarrollo del diseño y
+montaje físico del módulo.
+
+
+Lugar: 	UNIVERSIDAD COOPERATIVA
+DE COLOMBIA SEDE SANTA MARTA, Colombia
+
 ### Tema: Diseño e implementación de un entorno de desarrollo integrado para programación visual de aplicaciones en la generación del Internet de las Cosas
 
 Investigadores: Quiles Alemañ, José.
