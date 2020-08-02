@@ -300,6 +300,17 @@ Se recomienda tener tener espacio suficiente para poder instalar el programa VIS
 ### 13. MANUAL DE USUARIO
 
 
+![](img/t1.PNG)
+
+![](img/t2.PNG)
+
+![](img/t3.PNG)
+
+![](img/t4.PNG)
+
+![](img/t77.PNG)
+
+![](img/t88.PNG)
 
        
 
