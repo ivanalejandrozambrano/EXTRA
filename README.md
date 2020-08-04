@@ -108,6 +108,75 @@ Visuino es un ambiente de programación basado en la tecnología Open Wire, en d
 
 En otras palabras, como visuino podemos hacer un circuito electrónico con los componentes disponibles como lo son los displays, leds, botones, etc. Entonces Visuino te crea el código para que el circuito te funcione, con tu placa de Arduino.
 
+##### Sección de componentes
+
+![](img/0.PNG)
+
+1. Math
+
+2. Medición
+
+3. Memorias
+
+4. Motores
+
+5. Generadores
+
+6. INput/output
+
+7. Integer
+
+8. M5 stack
+
+9. Semilla del systema del estio Grove
+
+10. Synchronization
+
+11. Texto
+
+12. Unsingned
+
+13. Peguino
+
+14. Quaternion
+
+15. Controles remotos
+
+16. Color
+
+17. Communication
+
+18. Complex
+
+19. Convertidores 
+
+20. Analog
+
+21. Astronomy
+
+22. Audio
+
+23. Binary
+
+24. Displays
+![](img/99.PNG)
+24.28 LCD
+![](img/888.PNG)
+25. Filtros
+
+26. Flip-Flops
+
+27. Gates
+
+28. Data sinks
+
+29. Data Sources
+
+30. Data/time
+
+31. Digital
+
+
  ![](img/0000.jpg)
 
 #### LCD
