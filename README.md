@@ -159,9 +159,13 @@ En otras palabras, como visuino podemos hacer un circuito electrónico con los c
 23. Binary
 
 24. Displays
+
 ![](img/99.PNG)
+
 24.28 LCD
+
 ![](img/888.PNG)
+
 25. Filtros
 
 26. Flip-Flops
