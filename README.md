@@ -373,12 +373,18 @@ Para poder visualizar el texto del código necesitaremos descargar adicionalment
 
 ### 10. Aportaciones
 
-
+##### Proyecto hecho en Tinkercad
 
 
 ![](img/tinker.PNG)
 
+##### Prueba 1 del Proyecto hecho en Tinkercad con el codigo de VISUINO
 
+![](img/Capture1.PNG)
+
+##### Prueba 2 del Proyecto hecho en Tinkercad con el codigo de VISUINO con librerias adicionales de VISUINO
+
+![](img/Capture.PNG)
 
 ### 11.	RECOMENDACIONES
 
